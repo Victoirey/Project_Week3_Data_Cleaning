@@ -1,6 +1,3 @@
-# Project_Week3_Data_Cleaning
-
-
 # Profile table 
 select EducationSector, 
 round(avg(Age),1) as Average_Age, 
