@@ -1,0 +1,220 @@
+,EducationSector,TargetIndividualProject,Age,Gender,City,Influenced,Perseverance,DesireToTakeInitiative,Competitiveness,SelfReliance,StrongNeedToAchieve,SelfConfidence,GoodPhysicalHealth,MentalDisorder,KeyTraits,ReasonsForLack,Target-ent_competency,NotAbleFinancialRisk,RiskAdverse,AcademicPressure,MentalBlock,LackKnowledge,n.p.,FutureRelocation,NotInterested,ParentalPressure
+0,Engineering Sciences,No,19.0,Male,Yes,No,2.0,2.0,3.0,3.0,2.0,2.0,3.0,Yes,Passion,,1,0,0,0,0,0,1,0,0,0
+1,Engineering Sciences,Yes,22.0,Male,No,Yes,3.0,3.0,3.0,4.0,4.0,3.0,4.0,Yes,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+2,Engineering Sciences,No,18.0,Male,Yes,No,3.0,4.0,3.0,3.0,3.0,4.0,4.0,No,Passion,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+3,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,4.0,3.0,3.0,No,Resilience,Not able to take a Financial Risk,0,1,0,0,0,0,0,0,0,0
+4,Engineering Sciences,Yes,19.0,Male,Yes,Yes,2.0,3.0,3.0,3.0,4.0,3.0,2.0,Yes,Vision,,1,0,0,0,0,0,1,0,0,0
+5,Engineering Sciences,No,19.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+6,Engineering Sciences,Yes,19.0,Male,Yes,Yes,3.0,2.0,3.0,3.0,4.0,1.0,1.0,No,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+7,Engineering Sciences,No,20.0,Male,Yes,Yes,4.0,2.0,4.0,4.0,5.0,3.0,4.0,Yes,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk",0,1,0,1,0,1,0,0,1,0
+8,Others,Yes,20.0,Male,Yes,Yes,2.0,3.0,3.0,1.0,2.0,2.0,2.0,No,Passion,"Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk",0,1,0,1,0,1,0,0,0,0
+9,Engineering Sciences,Yes,17.0,Male,Yes,Yes,2.0,3.0,2.0,1.0,4.0,3.0,3.0,Yes,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+10,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,No,3.0,3.0,3.0,4.0,3.0,5.0,4.0,No,Resilience,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+11,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,Yes,3.0,3.0,4.0,4.0,5.0,4.0,5.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+12,Engineering Sciences,Yes,19.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,3.0,Yes,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+13,Engineering Sciences,No,21.0,Male,Yes,Yes,4.0,3.0,4.0,4.0,5.0,4.0,4.0,No,Vision,,1,0,0,0,0,0,1,0,0,0
+14,Others,No,20.0,Male,No,Yes,2.0,1.0,2.0,3.0,3.0,2.0,3.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+15,Engineering Sciences,No,18.0,Male,Yes,Yes,3.0,4.0,3.0,3.0,4.0,4.0,5.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+16,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,2.0,3.0,2.0,3.0,2.0,2.0,Yes,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Parental Pressure",0,0,0,1,0,0,0,0,1,1
+17,Engineering Sciences,No,21.0,Male,Yes,No,4.0,3.0,4.0,4.0,4.0,4.0,4.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+18,Engineering Sciences,No,19.0,Male,Yes,Yes,4.0,4.0,4.0,5.0,5.0,3.0,4.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+19,Engineering Sciences,No,20.0,Female,Yes,Yes,3.0,4.0,4.0,5.0,5.0,2.0,4.0,Yes,Passion,"Academic Pressure, Lack of Knowledge, Mental Block",0,0,0,1,1,1,0,0,0,0
+20,Engineering Sciences,No,19.0,Male,Yes,No,1.0,3.0,2.0,3.0,3.0,2.0,3.0,Yes,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+21,Engineering Sciences,No,21.0,Female,Yes,Yes,4.0,5.0,4.0,4.0,5.0,4.0,4.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+22,Engineering Sciences,No,19.0,Male,Yes,Yes,2.0,3.0,3.0,2.0,3.0,2.0,3.0,No,Vision,,1,0,0,0,0,0,1,0,0,0
+23,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,Vision,,1,0,0,0,0,0,1,0,0,0
+24,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,3.0,4.0,3.0,3.0,3.0,No,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+25,Engineering Sciences,No,18.0,Male,Yes,Yes,3.0,4.0,3.0,4.0,5.0,4.0,4.0,No,Vision,Lack of Knowledge,0,0,0,0,0,1,0,0,0,0
+26,"Art, Music or Design",Yes,21.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+27,"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Male,Yes,No,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+28,"Economic Sciences, Business Studies, Commerce and Law",No,23.0,Female,Yes,Yes,2.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+29,Engineering Sciences,No,18.0,Male,Yes,Yes,4.0,4.0,4.0,5.0,5.0,4.0,3.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+30,"Economic Sciences, Business Studies, Commerce and Law",Yes,17.0,Male,Yes,Yes,3.0,5.0,2.0,4.0,5.0,3.0,5.0,Yes,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+31,Engineering Sciences,No,18.0,Male,Yes,Yes,3.0,3.0,4.0,3.0,3.0,3.0,3.0,No,Work Ethic,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge",0,0,1,1,0,1,0,0,0,0
+32,Humanities and Social Sciences,No,19.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,Vision,,1,0,0,0,0,0,1,0,0,0
+33,Engineering Sciences,Yes,22.0,Male,No,No,4.0,3.0,5.0,5.0,4.0,2.0,4.0,No,Resilience,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge, Parental Pressure, Mental Block",0,0,0,0,1,1,0,0,1,1
+34,Engineering Sciences,No,19.0,Male,Yes,Yes,3.0,3.0,3.0,4.0,5.0,5.0,3.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+35,"Economic Sciences, Business Studies, Commerce and Law",Yes,21.0,Male,Yes,Yes,4.0,4.0,3.0,4.0,4.0,3.0,5.0,No,Passion,"Unwillingness to take risk, Lack of Knowledge, Not able to take a Financial Risk",0,1,1,0,0,1,0,0,0,0
+36,Engineering Sciences,No,19.0,Male,Yes,No,3.0,4.0,4.0,3.0,3.0,4.0,3.0,No,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Unwillingness to take risk, Lack of Knowledge",0,0,1,0,0,1,0,0,1,0
+37,"Economic Sciences, Business Studies, Commerce and Law",No,23.0,Male,No,Yes,5.0,4.0,4.0,3.0,5.0,4.0,4.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+38,Engineering Sciences,No,18.0,Male,Yes,No,3.0,4.0,4.0,5.0,5.0,3.0,5.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Unwillingness to take risk, Lack of Knowledge, Parental Pressure, Not able to take a Financial Risk",0,1,1,1,0,1,0,0,1,1
+39,Engineering Sciences,No,21.0,Male,Yes,No,3.0,4.0,3.0,3.0,3.0,4.0,4.0,No,Positivity,Lack of Knowledge,0,0,0,0,0,1,0,0,0,0
+40,Engineering Sciences,No,18.0,Male,No,Yes,3.0,4.0,2.0,3.0,3.0,4.0,4.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+41,"Art, Music or Design",Yes,20.0,Male,Yes,No,4.0,1.0,3.0,4.0,5.0,2.0,2.0,Yes,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+42,Engineering Sciences,Yes,26.0,Male,No,Yes,2.0,3.0,2.0,3.0,3.0,2.0,3.0,Yes,Vision,,1,0,0,0,0,0,1,0,0,0
+43,Engineering Sciences,No,20.0,Female,Yes,Yes,5.0,4.0,5.0,5.0,5.0,4.0,5.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+44,Engineering Sciences,No,20.0,Female,No,No,5.0,4.0,5.0,5.0,4.0,5.0,4.0,Yes,Passion,"Academic Pressure, Lack of Knowledge",0,0,0,1,0,1,0,0,0,0
+45,Engineering Sciences,Yes,21.0,Male,Yes,No,4.0,4.0,5.0,5.0,4.0,4.0,3.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+46,Engineering Sciences,Yes,20.0,Female,Yes,No,5.0,3.0,4.0,4.0,5.0,3.0,3.0,No,Work Ethic,Unwillingness to take risk,0,0,1,0,0,0,0,0,0,0
+47,Others,Yes,20.0,Male,Yes,Yes,4.0,5.0,5.0,4.0,4.0,4.0,4.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+48,"Medicine, Health Sciences",Yes,19.0,Female,Yes,Yes,1.0,1.0,1.0,1.0,1.0,1.0,1.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+49,Engineering Sciences,Yes,21.0,Female,Yes,Yes,4.0,5.0,5.0,5.0,5.0,4.0,4.0,Yes,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+50,Engineering Sciences,Yes,20.0,Male,Yes,Yes,2.0,2.0,2.0,3.0,3.0,3.0,2.0,No,Vision,,1,0,0,0,0,0,1,0,0,0
+51,Engineering Sciences,Yes,20.0,Female,Yes,Yes,5.0,5.0,5.0,4.0,5.0,4.0,4.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+52,"Teaching Degree (e.g., B.Ed)",No,19.0,Male,Yes,Yes,3.0,2.0,2.0,2.0,3.0,1.0,2.0,No,Work Ethic,"Academic Pressure, Lack of Knowledge, Parental Pressure, Mental Block, Not able to take a Financial Risk",0,1,0,1,1,1,0,0,0,1
+53,Engineering Sciences,Yes,21.0,Male,Yes,Yes,4.0,5.0,5.0,5.0,4.0,5.0,5.0,No,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+54,Engineering Sciences,Yes,19.0,Male,Yes,Yes,4.0,4.0,5.0,5.0,5.0,5.0,5.0,Yes,Passion,,1,0,0,0,0,0,1,0,0,0
+55,Engineering Sciences,No,20.0,Female,Yes,No,3.0,4.0,4.0,5.0,4.0,3.0,4.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+56,Engineering Sciences,No,20.0,Female,Yes,Yes,3.0,4.0,3.0,5.0,4.0,5.0,3.0,No,Positivity,"Lack of Knowledge, Not willing to start a venture in India and waiting for future relocation",0,0,0,0,0,1,0,1,0,0
+57,Engineering Sciences,Yes,19.0,Male,Yes,No,3.0,3.0,3.0,4.0,2.0,4.0,4.0,Yes,Work Ethic,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+58,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,5.0,5.0,4.0,5.0,2.0,4.0,Yes,Passion,,1,0,0,0,0,0,1,0,0,0
+59,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,Yes,3.0,4.0,3.0,3.0,4.0,3.0,4.0,Yes,Work Ethic,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+60,Engineering Sciences,Yes,19.0,Female,Yes,No,4.0,5.0,4.0,4.0,5.0,5.0,3.0,Yes,Positivity,,1,0,0,0,0,0,1,0,0,0
+61,Engineering Sciences,No,19.0,Male,Yes,Yes,3.0,5.0,4.0,5.0,5.0,5.0,3.0,No,Positivity,Academic Pressure,0,0,0,1,0,0,0,0,0,0
+62,Engineering Sciences,No,20.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Unwillingness to take risk, Lack of Knowledge, Parental Pressure, Mental Block, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",0,1,1,1,1,1,0,1,1,1
+63,Engineering Sciences,Yes,19.0,Male,Yes,Yes,2.0,3.0,1.0,2.0,2.0,1.0,3.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+64,Engineering Sciences,Yes,22.0,Male,No,No,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+65,Engineering Sciences,No,19.0,Male,No,Yes,4.0,5.0,5.0,5.0,4.0,4.0,5.0,No,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+66,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,4.0,4.0,3.0,4.0,3.0,5.0,No,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+67,Mathematics or Natural Sciences,No,20.0,Male,Yes,Yes,4.0,4.0,3.0,4.0,4.0,3.0,5.0,No,Positivity,Lack of Knowledge,0,0,0,0,0,1,0,0,0,0
+68,"Art, Music or Design",Yes,24.0,Male,Yes,Yes,4.0,5.0,5.0,4.0,4.0,4.0,5.0,Yes,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+69,Engineering Sciences,No,19.0,Male,Yes,Yes,2.0,2.0,3.0,3.0,3.0,1.0,2.0,No,Resilience,Unwillingness to take risk,0,0,1,0,0,0,0,0,0,0
+70,Engineering Sciences,No,19.0,Male,Yes,Yes,2.0,2.0,3.0,2.0,3.0,3.0,2.0,No,Resilience,Lack of Knowledge,0,0,0,0,0,1,0,0,0,0
+71,Engineering Sciences,No,20.0,Male,Yes,Yes,4.0,4.0,5.0,4.0,4.0,4.0,4.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+72,"Medicine, Health Sciences",No,20.0,Female,Yes,Yes,4.0,4.0,3.0,4.0,5.0,3.0,3.0,No,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+73,Engineering Sciences,Yes,21.0,Female,Yes,No,2.0,2.0,2.0,3.0,2.0,2.0,2.0,Yes,Resilience,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+74,Engineering Sciences,No,19.0,Male,Yes,Yes,5.0,5.0,3.0,5.0,5.0,3.0,3.0,Yes,Positivity,,1,0,0,0,0,0,1,0,0,0
+75,Others,Yes,21.0,Female,Yes,No,4.0,4.0,5.0,4.0,3.0,3.0,3.0,No,Passion,Academic Pressure,0,0,0,1,0,0,0,0,0,0
+76,Engineering Sciences,Yes,20.0,Male,Yes,Yes,,,,4.0,5.0,4.0,5.0,Yes,Vision,,1,0,0,0,0,0,1,0,0,0
+77,Engineering Sciences,No,19.0,Male,No,Yes,4.0,5.0,4.0,5.0,5.0,4.0,4.0,Yes,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+78,Engineering Sciences,Yes,19.0,Male,Yes,Yes,5.0,5.0,5.0,4.0,4.0,5.0,5.0,Yes,Resilience,,1,0,0,0,0,0,1,0,0,0
+79,Engineering Sciences,Yes,21.0,Male,Yes,No,2.0,3.0,3.0,3.0,3.0,3.0,3.0,,Positivity,,1,0,0,0,0,0,1,0,0,0
+80,Engineering Sciences,No,19.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,4.0,2.0,3.0,,Positivity,,1,0,0,0,0,0,1,0,0,0
+81,Others,Yes,19.0,Female,Yes,Yes,4.0,4.0,4.0,4.0,4.0,5.0,4.0,,Vision,,1,0,0,0,0,0,1,0,0,0
+82,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Female,No,Yes,3.0,5.0,,,,5.0,5.0,,Resilience,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+83,Engineering Sciences,No,19.0,Male,Yes,No,4.0,5.0,4.0,4.0,5.0,5.0,4.0,,Positivity,Lack of Knowledge,0,0,0,0,0,1,0,0,0,0
+84,"Economic Sciences, Business Studies, Commerce and Law",No,18.0,Male,Yes,Yes,4.0,4.0,3.0,4.0,5.0,5.0,4.0,,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge",0,0,0,0,0,1,0,0,1,0
+85,Engineering Sciences,No,20.0,Male,Yes,Yes,1.0,1.0,1.0,5.0,5.0,5.0,5.0,,Positivity,,1,0,0,0,0,0,1,0,0,0
+86,"Economic Sciences, Business Studies, Commerce and Law",No,19.0,Male,No,Yes,4.0,5.0,5.0,5.0,5.0,4.0,5.0,,Passion,"Lack of Knowledge, Not able to take a Financial Risk",0,1,0,0,0,1,0,0,0,0
+87,Engineering Sciences,Yes,20.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,Positivity,,1,0,0,0,0,0,1,0,0,0
+88,Others,No,20.0,Male,Yes,Yes,3.0,2.0,3.0,2.0,2.0,3.0,3.0,,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+89,Engineering Sciences,Yes,20.0,Male,Yes,No,4.0,5.0,4.0,5.0,5.0,3.0,4.0,,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+90,Humanities and Social Sciences,Yes,21.0,Male,Yes,Yes,4.0,3.0,3.0,5.0,4.0,3.0,4.0,,Positivity,,1,0,0,0,0,0,1,0,0,0
+91,"Economic Sciences, Business Studies, Commerce and Law",Yes,20.0,Male,No,No,3.0,4.0,3.0,4.0,5.0,2.0,3.0,No,Vision,Unwillingness to take risk,0,0,1,0,0,0,0,0,0,0
+92,Engineering Sciences,Yes,22.0,Male,Yes,Yes,2.0,5.0,5.0,3.0,4.0,4.0,5.0,Yes,Positivity,"Lack of Knowledge, Parental Pressure",0,0,0,0,0,1,0,0,0,1
+93,"Medicine, Health Sciences",Yes,20.0,Male,Yes,Yes,4.0,5.0,5.0,4.0,4.0,5.0,4.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+94,Others,No,19.0,Male,Yes,Yes,3.0,3.0,2.0,2.0,3.0,3.0,3.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+95,Engineering Sciences,No,20.0,Male,Yes,Yes,3.0,3.0,3.0,4.0,4.0,3.0,4.0,Yes,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+96,"Economic Sciences, Business Studies, Commerce and Law",Yes,18.0,Female,Yes,No,4.0,5.0,5.0,4.0,5.0,4.0,4.0,No,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+97,Engineering Sciences,No,21.0,Male,No,No,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+98,Others,No,22.0,Male,Yes,Yes,2.0,2.0,3.0,3.0,3.0,3.0,3.0,No,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+99,Engineering Sciences,No,19.0,Male,No,Yes,5.0,4.0,5.0,5.0,5.0,4.0,3.0,No,Vision,,1,0,0,0,0,0,1,0,0,0
+100,"Economic Sciences, Business Studies, Commerce and Law",No,19.0,Female,Yes,Yes,4.0,3.0,3.0,4.0,5.0,4.0,3.0,No,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge",0,0,0,0,0,1,0,0,1,0
+101,Language and Cultural Studies,No,19.0,Male,No,Yes,3.0,5.0,3.0,3.0,5.0,5.0,2.0,No,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Not willing to start a venture in India and waiting for future relocation",0,0,0,0,0,0,0,1,1,0
+102,Others,No,19.0,Male,Yes,Yes,4.0,3.0,3.0,4.0,5.0,5.0,5.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+103,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,5.0,3.0,5.0,4.0,2.0,Yes,Vision,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge",0,0,1,1,0,1,0,0,0,0
+104,"Medicine, Health Sciences",Yes,20.0,Female,Yes,No,5.0,4.0,5.0,5.0,5.0,5.0,3.0,Yes,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+105,Humanities and Social Sciences,No,20.0,Male,Yes,Yes,4.0,4.0,5.0,5.0,5.0,5.0,5.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+106,Engineering Sciences,Yes,20.0,Male,Yes,No,5.0,4.0,4.0,4.0,4.0,5.0,3.0,No,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Not able to take a Financial Risk",0,1,0,1,0,0,0,0,1,0
+107,Engineering Sciences,Yes,22.0,Male,No,Yes,3.0,4.0,4.0,4.0,5.0,5.0,5.0,No,Passion,"Parental Pressure, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",0,1,0,0,0,0,0,1,0,1
+108,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,Yes,4.0,3.0,5.0,4.0,5.0,4.0,3.0,Yes,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+109,"Art, Music or Design",Yes,20.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,4.0,5.0,4.0,Yes,Passion,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+110,"Medicine, Health Sciences",No,20.0,Male,Yes,No,5.0,4.0,4.0,5.0,5.0,4.0,5.0,No,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+111,Humanities and Social Sciences,No,19.0,Female,Yes,Yes,3.0,5.0,2.0,4.0,4.0,4.0,2.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+112,Engineering Sciences,Yes,20.0,Male,Yes,Yes,5.0,5.0,4.0,4.0,5.0,5.0,3.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Lack of Knowledge",0,0,0,1,0,1,0,0,1,0
+113,Engineering Sciences,Yes,20.0,Male,Yes,No,4.0,3.0,5.0,4.0,5.0,4.0,4.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+114,Engineering Sciences,No,19.0,Male,Yes,Yes,4.0,4.0,4.0,5.0,5.0,4.0,5.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+115,Engineering Sciences,Yes,20.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,4.0,4.0,4.0,No,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+116,Engineering Sciences,Yes,18.0,Male,Yes,No,2.0,3.0,3.0,2.0,2.0,2.0,3.0,No,Positivity,"Academic Pressure, Not able to take a Financial Risk",0,1,0,1,0,0,0,0,0,0
+117,"Economic Sciences, Business Studies, Commerce and Law",No,17.0,Male,Yes,No,5.0,4.0,4.0,5.0,5.0,5.0,5.0,No,Positivity,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+118,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,No,Yes,3.0,4.0,5.0,5.0,5.0,4.0,5.0,No,Work Ethic,Mental Block,0,0,0,0,1,0,0,0,0,0
+119,Engineering Sciences,No,20.0,Male,Yes,No,2.0,3.0,3.0,2.0,3.0,2.0,2.0,Yes,Positivity,"Lack of Knowledge, Not able to take a Financial Risk",0,1,0,0,0,1,0,0,0,0
+120,"Art, Music or Design",No,20.0,Female,Yes,Yes,4.0,4.0,3.0,4.0,5.0,4.0,3.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+121,"Medicine, Health Sciences",Yes,20.0,Male,Yes,Yes,3.0,5.0,5.0,5.0,3.0,4.0,5.0,No,Vision,,1,0,0,0,0,0,1,0,0,0
+122,Engineering Sciences,Yes,20.0,Female,Yes,No,3.0,4.0,4.0,4.0,4.0,3.0,3.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+123,Engineering Sciences,Yes,21.0,Male,Yes,Yes,5.0,3.0,4.0,4.0,4.0,4.0,3.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",0,1,0,0,0,1,0,1,1,0
+124,Mathematics or Natural Sciences,Yes,20.0,Male,Yes,Yes,2.0,3.0,2.0,1.0,2.0,3.0,2.0,Yes,Vision,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+125,Engineering Sciences,No,20.0,Female,Yes,No,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk",0,1,0,0,0,1,0,0,1,0
+126,Engineering Sciences,Yes,21.0,Male,Yes,Yes,3.0,5.0,5.0,4.0,5.0,5.0,4.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+127,Engineering Sciences,Yes,,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+128,Engineering Sciences,Yes,,Female,Yes,Yes,4.0,5.0,4.0,4.0,4.0,5.0,4.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+129,"Economic Sciences, Business Studies, Commerce and Law",No,,Male,Yes,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Positivity,"Academic Pressure, Not able to take a Financial Risk",0,1,0,1,0,0,0,0,0,0
+130,Engineering Sciences,Yes,,Female,Yes,Yes,3.0,5.0,4.0,4.0,5.0,4.0,4.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+131,Engineering Sciences,Yes,,Male,Yes,Yes,4.0,3.0,3.0,3.0,4.0,4.0,4.0,No,Passion,Not able to take a Financial Risk,0,1,0,0,0,0,0,0,0,0
+132,Engineering Sciences,Yes,,Female,Yes,Yes,3.0,4.0,4.0,4.0,5.0,5.0,3.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+133,Others,No,,Female,Yes,Yes,4.0,5.0,5.0,4.0,5.0,4.0,3.0,No,Passion,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+134,Engineering Sciences,Yes,,Male,Yes,Yes,3.0,3.0,3.0,4.0,4.0,4.0,4.0,Yes,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+135,"Art, Music or Design",Yes,,Male,Yes,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Passion,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge, Parental Pressure, Mental Block, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",0,1,1,1,1,1,0,1,0,1
+136,"Economic Sciences, Business Studies, Commerce and Law",No,,Male,Yes,No,1.0,2.0,1.0,2.0,3.0,2.0,2.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk",0,1,0,0,0,1,0,0,1,0
+137,Engineering Sciences,Yes,,Male,unknown,No,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Yes,Vision,,1,0,0,0,0,0,1,0,0,0
+138,Others,Yes,,Male,Yes,Yes,3.0,4.0,4.0,4.0,3.0,3.0,4.0,Yes,Passion,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+139,"Economic Sciences, Business Studies, Commerce and Law",No,,Male,No,Yes,2.0,2.0,3.0,2.0,3.0,3.0,2.0,Yes,Resilience,"Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",0,1,0,1,0,1,0,1,0,0
+140,Engineering Sciences,Yes,,Male,Yes,Yes,4.0,5.0,5.0,5.0,4.0,5.0,4.0,No,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+141,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,4.0,3.0,5.0,5.0,5.0,5.0,No,Passion,"Academic Pressure, Lack of Knowledge, Parental Pressure",0,0,0,1,0,1,0,0,0,1
+142,Engineering Sciences,Yes,20.0,Male,Yes,No,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+143,Engineering Sciences,Yes,20.0,Male,Yes,Yes,2.0,2.0,2.0,2.0,2.0,2.0,2.0,No,Vision,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk",0,1,0,0,0,1,0,0,1,0
+144,"Economic Sciences, Business Studies, Commerce and Law",Yes,20.0,Male,Yes,Yes,3.0,4.0,3.0,5.0,4.0,3.0,2.0,Yes,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+145,"Economic Sciences, Business Studies, Commerce and Law",No,21.0,Male,No,Yes,3.0,4.0,3.0,4.0,5.0,3.0,4.0,Yes,Passion,Academic Pressure,0,0,0,1,0,0,0,0,0,0
+146,Engineering Sciences,Yes,20.0,Male,No,No,3.0,4.0,5.0,5.0,3.0,4.0,4.0,No,Passion,"Lack of Knowledge, Parental Pressure",0,0,0,0,0,1,0,0,0,1
+147,"Medicine, Health Sciences",No,19.0,Male,Yes,No,3.0,1.0,3.0,4.0,3.0,3.0,5.0,No,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk",0,1,0,1,0,1,0,0,1,0
+148,Engineering Sciences,Yes,20.0,Male,No,Yes,4.0,4.0,4.0,4.0,5.0,5.0,5.0,No,Positivity,Academic Pressure,0,0,0,1,0,0,0,0,0,0
+149,"Economic Sciences, Business Studies, Commerce and Law",No,18.0,Female,Yes,Yes,4.0,3.0,4.0,4.0,4.0,5.0,5.0,Yes,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+150,Engineering Sciences,No,22.0,Male,Yes,No,2.0,3.0,2.0,3.0,3.0,3.0,3.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+151,"Economic Sciences, Business Studies, Commerce and Law",No,19.0,Male,Yes,Yes,2.0,3.0,2.0,3.0,2.0,2.0,1.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+152,"Art, Music or Design",No,19.0,Female,Yes,Yes,2.0,2.0,2.0,2.0,2.0,2.0,2.0,Yes,Positivity,,1,0,0,0,0,0,1,0,0,0
+153,"Medicine, Health Sciences",No,17.0,Female,Yes,No,3.0,2.0,1.0,3.0,3.0,2.0,3.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+154,Mathematics or Natural Sciences,No,18.0,Female,Yes,Yes,2.0,1.0,3.0,1.0,2.0,3.0,4.0,No,Work Ethic,Academic Pressure,0,0,0,1,0,0,0,0,0,0
+155,Others,Yes,20.0,Female,Yes,No,2.0,2.0,2.0,2.0,2.0,1.0,3.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+156,Others,Yes,19.0,Male,Yes,Yes,4.0,5.0,5.0,5.0,5.0,4.0,4.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Unwillingness to take risk",0,0,1,0,0,0,0,0,1,0
+157,"Art, Music or Design",No,22.0,Female,Yes,Yes,4.0,3.0,4.0,5.0,5.0,4.0,3.0,No,Positivity,Academic Pressure,0,0,0,1,0,0,0,0,0,0
+158,"Art, Music or Design",Yes,21.0,Male,Yes,Yes,2.0,1.0,2.0,2.0,2.0,1.0,1.0,No,Vision,Academic Pressure,0,0,0,1,0,0,0,0,0,0
+159,"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Female,unknown,Yes,2.0,1.0,1.0,2.0,2.0,2.0,1.0,No,Resilience,"Academic Pressure, Unwillingness to take risk, Parental Pressure, Not able to take a Financial Risk",0,1,1,1,0,0,0,0,0,1
+160,"Art, Music or Design",No,21.0,Male,No,No,1.0,1.0,1.0,1.0,5.0,5.0,5.0,No,Passion,"Not able to take a Financial Risk, Not willing to start a venture in India and waiting for future relocation",0,1,0,0,0,0,0,1,0,0
+161,"Economic Sciences, Business Studies, Commerce and Law",Yes,25.0,Female,Yes,Yes,4.0,4.0,3.0,3.0,3.0,4.0,4.0,No,Passion,"Lack of Knowledge, Parental Pressure, Mental Block, Not able to take a Financial Risk",0,1,0,0,1,1,0,0,0,1
+162,"Medicine, Health Sciences",Yes,22.0,Male,No,Yes,2.0,1.0,2.0,3.0,2.0,3.0,3.0,Yes,Vision,"Academic Pressure, Unwillingness to take risk, Not able to take a Financial Risk",0,1,1,1,0,0,0,0,0,0
+163,"Art, Music or Design",Yes,21.0,Male,No,Yes,2.0,2.0,3.0,3.0,3.0,3.0,3.0,No,Passion,Not willing to start a venture in India and waiting for future relocation,0,0,0,0,0,0,0,1,0,0
+164,"Art, Music or Design",Yes,21.0,Male,Yes,No,4.0,4.0,4.0,3.0,4.0,5.0,5.0,No,Passion,"Academic Pressure, Lack of Knowledge, Not able to take a Financial Risk",0,1,0,1,0,1,0,0,0,0
+165,"Teaching Degree (e.g., B.Ed)",Yes,18.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,Vision,,1,0,0,0,0,0,1,0,0,0
+166,"Medicine, Health Sciences",No,19.0,Female,Yes,No,4.0,5.0,5.0,5.0,5.0,5.0,5.0,Yes,Vision,Parental Pressure,0,0,0,0,0,0,0,0,0,1
+167,Others,Yes,22.0,Female,Yes,No,3.0,3.0,3.0,3.0,3.0,3.0,2.0,No,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+168,"Art, Music or Design",No,21.0,Female,Yes,Yes,4.0,5.0,5.0,5.0,5.0,4.0,2.0,Yes,Positivity,Academic Pressure,0,0,0,1,0,0,0,0,0,0
+169,"Teaching Degree (e.g., B.Ed)",Yes,20.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,Yes,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+170,Engineering Sciences,Yes,18.0,Female,Yes,Yes,4.0,3.0,4.0,4.0,3.0,3.0,4.0,No,Passion,Lack of Knowledge,0,0,0,0,0,1,0,0,0,0
+171,Engineering Sciences,No,18.0,Male,No,Yes,3.0,3.0,4.0,4.0,4.0,3.0,4.0,No,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+172,"Art, Music or Design",Yes,21.0,Male,Yes,Yes,3.0,4.0,4.0,4.0,5.0,4.0,5.0,Yes,Passion,,1,0,0,0,0,0,1,0,0,0
+173,"Art, Music or Design",Yes,19.0,Female,Yes,No,2.0,2.0,2.0,2.0,1.0,2.0,2.0,No,Passion,Not able to take a Financial Risk,0,1,0,0,0,0,0,0,0,0
+174,Others,Yes,20.0,Male,Yes,Yes,2.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+175,Engineering Sciences,Yes,20.0,Male,No,Yes,2.0,1.0,1.0,2.0,3.0,1.0,3.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+176,Engineering Sciences,Yes,20.0,Female,Yes,Yes,4.0,5.0,5.0,4.0,5.0,5.0,5.0,No,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Not able to take a Financial Risk",0,1,0,0,0,0,0,0,1,0
+177,"Art, Music or Design",Yes,19.0,Female,Yes,Yes,4.0,5.0,5.0,5.0,5.0,5.0,5.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+178,Humanities and Social Sciences,No,19.0,Female,No,No,2.0,2.0,1.0,2.0,2.0,2.0,3.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+179,Engineering Sciences,No,18.0,Male,Yes,Yes,3.0,3.0,2.0,2.0,3.0,3.0,2.0,No,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+180,Others,Yes,20.0,Female,Yes,No,4.0,5.0,4.0,4.0,3.0,5.0,5.0,Yes,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure, Lack of Knowledge, Parental Pressure, Not able to take a Financial Risk",0,1,0,1,0,1,0,0,1,1
+181,Engineering Sciences,Yes,22.0,Male,No,Yes,4.0,3.0,4.0,4.0,5.0,3.0,4.0,No,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Lack of Knowledge, Not able to take a Financial Risk",0,1,0,0,0,1,0,0,1,0
+182,Others,Yes,19.0,Male,Yes,Yes,4.0,3.0,3.0,4.0,4.0,3.0,3.0,No,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+183,Engineering Sciences,Yes,19.0,Male,Yes,Yes,3.0,4.0,5.0,5.0,4.0,4.0,2.0,No,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+184,"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Male,Yes,Yes,4.0,5.0,5.0,4.0,5.0,4.0,5.0,Yes,Passion,,1,0,0,0,0,0,1,0,0,0
+185,"Art, Music or Design",Yes,19.0,Male,Yes,Yes,3.0,4.0,3.0,4.0,5.0,4.0,4.0,No,Vision,,1,0,0,0,0,0,1,0,0,0
+186,Engineering Sciences,No,17.0,Male,Yes,Yes,5.0,5.0,4.0,4.0,5.0,5.0,4.0,No,Positivity,"Lack of Knowledge, Not able to take a Financial Risk",0,1,0,0,0,1,0,0,0,0
+187,Others,No,21.0,Female,No,Yes,3.0,1.0,2.0,3.0,2.0,2.0,1.0,Yes,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+188,"Economic Sciences, Business Studies, Commerce and Law",Yes,20.0,Female,Yes,No,4.0,4.0,4.0,4.0,4.0,4.0,2.0,Yes,Work Ethic,Academic Pressure,0,0,0,1,0,0,0,0,0,0
+189,"Economic Sciences, Business Studies, Commerce and Law",No,18.0,Female,Yes,No,4.0,5.0,3.0,2.0,3.0,1.0,1.0,Yes,Passion,"Lack of Knowledge, Mental Block, Not able to take a Financial Risk",0,1,0,0,1,1,0,0,0,0
+190,Engineering Sciences,No,17.0,Male,No,Yes,3.0,4.0,4.0,2.0,3.0,2.0,3.0,No,Passion,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge",0,0,1,1,0,1,0,0,0,0
+191,Others,Yes,21.0,Female,Yes,No,4.0,5.0,4.0,5.0,4.0,4.0,4.0,Yes,Positivity,,1,0,0,0,0,0,1,0,0,0
+192,Others,Yes,19.0,Female,No,Yes,4.0,4.0,4.0,5.0,4.0,4.0,4.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+193,"Art, Music or Design",Yes,20.0,Male,Yes,Yes,2.0,3.0,2.0,,2.0,3.0,2.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+194,Engineering Sciences,No,20.0,Male,Yes,Yes,4.0,4.0,4.0,,4.0,4.0,4.0,No,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+195,Engineering Sciences,No,19.0,Male,Yes,Yes,5.0,,5.0,,5.0,5.0,5.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+196,Engineering Sciences,Yes,19.0,Female,Yes,No,3.0,,5.0,,4.0,3.0,3.0,Yes,Work Ethic,"Academic Pressure, Unwillingness to take risk, Lack of Knowledge",0,0,1,1,0,1,0,0,0,0
+197,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,,5.0,,4.0,5.0,5.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+198,"Art, Music or Design",Yes,19.0,Male,Yes,Yes,,,,,,,,No,Passion,Academic Pressure,0,0,0,1,0,0,0,0,0,0
+199,Engineering Sciences,No,19.0,Male,Yes,No,,,,,,,,No,Positivity,Unwillingness to take risk,0,0,1,0,0,0,0,0,0,0
+200,Engineering Sciences,Yes,20.0,Male,Yes,Yes,,,,,,,,No,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+201,Engineering Sciences,No,19.0,Male,No,Yes,,,,,,,,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+202,Mathematics or Natural Sciences,Yes,17.0,Male,Yes,Yes,,,,,,,,No,Vision,Academic Pressure,0,0,0,1,0,0,0,0,0,0
+203,"Art, Music or Design",Yes,20.0,Female,Yes,Yes,,,,,,,,Yes,Positivity,,1,0,0,0,0,0,1,0,0,0
+204,Engineering Sciences,Yes,20.0,Female,Yes,unknown,,,,,,,,No,Passion,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+205,Engineering Sciences,Yes,20.0,Male,Yes,Yes,4.0,4.0,5.0,,4.0,4.0,5.0,Yes,Positivity,,1,0,0,0,0,0,1,0,0,0
+206,Engineering Sciences,Yes,21.0,Male,Yes,Yes,,5.0,4.0,,4.0,4.0,3.0,Yes,Positivity,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else)",0,0,0,0,0,0,0,0,1,0
+207,Engineering Sciences,Yes,21.0,Female,No,No,,2.0,3.0,,3.0,3.0,2.0,No,Positivity,,1,0,0,0,0,0,1,0,0,0
+208,Engineering Sciences,No,20.0,Male,Yes,No,,5.0,4.0,,5.0,5.0,5.0,No,Vision,,1,0,0,0,0,0,1,0,0,0
+209,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,No,,2.0,3.0,,2.0,2.0,3.0,No,Positivity,"Lack of Knowledge, Mental Block",0,0,0,0,1,1,0,0,0,0
+210,Engineering Sciences,Yes,20.0,Female,Yes,Yes,,3.0,2.0,,3.0,3.0,2.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
+211,"Economic Sciences, Business Studies, Commerce and Law",No,19.0,Male,Yes,Yes,,5.0,5.0,,5.0,5.0,5.0,Yes,Vision,,1,0,0,0,0,0,1,0,0,0
+212,"Art, Music or Design",Yes,20.0,Female,Yes,Yes,,5.0,5.0,,4.0,5.0,5.0,No,Work Ethic,,1,0,0,0,0,0,1,0,0,0
+213,Engineering Sciences,No,19.0,Male,Yes,No,,2.0,3.0,,4.0,2.0,4.0,Yes,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Not able to take a Financial Risk",0,1,0,0,0,0,0,0,1,0
+214,Engineering Sciences,Yes,19.0,Male,Yes,Yes,,5.0,4.0,3.0,4.0,4.0,5.0,Yes,Positivity,,1,0,0,0,0,0,1,0,0,0
+215,Engineering Sciences,Yes,19.0,Male,Yes,No,2.0,2.0,2.0,2.0,2.0,2.0,2.0,No,Work Ethic,"Just not interested! (Want to work in the corporate sector, or for the government or pursue research or something else), Academic Pressure",0,0,0,1,0,0,0,0,1,0
+216,Engineering Sciences,Yes,22.0,Female,Yes,Yes,3.0,4.0,4.0,3.0,4.0,4.0,3.0,No,Vision,,1,0,0,0,0,0,1,0,0,0
+217,Engineering Sciences,No,19.0,Male,Yes,No,1.0,2.0,2.0,3.0,3.0,2.0,2.0,No,Passion,Lack of Knowledge,0,0,0,0,0,1,0,0,0,0
+218,Engineering Sciences,Yes,18.0,Male,unknown,Yes,3.0,5.0,3.0,5.0,5.0,5.0,2.0,No,Passion,,1,0,0,0,0,0,1,0,0,0
